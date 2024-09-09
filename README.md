@@ -1,9 +1,9 @@
-Contact Manager
+# Contact Manager
 
 
 A C++ console application to manage and store contact information efficiently. This program allows users to add, view, edit, and delete contacts with persistent storage, ensuring contacts remain saved across sessions.
 
-Features
+# Features
 Add Contacts: Store new contacts by entering a name, phone number, and email address.
 View Contacts: Display the complete list of stored contacts.
 Edit Contacts: Modify details of an existing contact.
